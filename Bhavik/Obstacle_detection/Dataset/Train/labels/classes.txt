@@ -1,0 +1,7 @@
+cap
+rock
+bag
+footwear
+helmet
+other1
+other2
